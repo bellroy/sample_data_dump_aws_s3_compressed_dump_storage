@@ -34,7 +34,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'dry-struct'
   spec.add_dependency 'dry-types'
   spec.add_dependency 'duckface-interfaces'
-  spec.add_dependency 'sample_data_dump'
+  spec.add_dependency 'sample_data_dump', '>= 0.0.2'
 
   spec.add_development_dependency 'bundler', '>= 1.13'
   spec.add_development_dependency 'rake', '>= 10.0'
