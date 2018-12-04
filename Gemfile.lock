@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    sample_data_dump_aws_s3_compressed_dump_storage (0.0.2)
+    sample_data_dump_aws_s3_compressed_dump_storage (0.0.3)
       aws-sdk-s3
       dry-matcher
       dry-monads
