@@ -1,3 +1,7 @@
+0.0.4
+
+   * Update dependencies
+
 0.0.3
 
    * Make access_key_id and secret_access_key optional in S3 options
